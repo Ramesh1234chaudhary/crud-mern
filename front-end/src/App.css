@@ -1,0 +1,36 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+ 
+  color: #fff;
+}
+.App{
+  width: 100vw;
+  height: 100vh;
+}
+.nav-user li{
+ display: inline-block;
+ padding: 10px;
+ color: #fff;
+ list-style: none;
+ font-size: 18px;
+ font-weight: 500;
+ 
+
+}
+.nav-user ul li{
+  color:#fff;
+}
+.footer{
+  position: absolute;
+  margin-bottom: 800px;
+  text-align: center;
+  background-color: skyblue;
+  width: 100%;
+}
+
+
+
